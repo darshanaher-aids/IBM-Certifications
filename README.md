@@ -1,5 +1,5 @@
 
-# 📜 IBM Certifications – Darshan Aher
+# 📜 IBM Certifications 
 
 Welcome to my IBM certification repository.  
 These certifications demonstrate my knowledge in Cloud, AI, DevOps, Business Intelligence, and Predictive Analytics.
